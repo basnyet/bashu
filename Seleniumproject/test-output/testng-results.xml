@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2020-03-26T22:23:52Z" finished-at="2020-03-26T22:23:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2020-03-26T22:23:52Z" finished-at="2020-03-26T22:23:52Z">
+      <class name="com.nexttech.stepdef.TestNGFeatures">
+        <test-method status="PASS" signature="HomepageTest()[pri:0, instance:com.nexttech.stepdef.TestNGFeatures@675d3402]" name="HomepageTest" duration-ms="10" started-at="2020-03-26T17:23:52Z" finished-at="2020-03-26T17:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.nexttech.stepdef.TestNGFeatures@675d3402]" name="loginTest" duration-ms="1" started-at="2020-03-26T17:23:52Z" finished-at="2020-03-26T17:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.nexttech.stepdef.TestNGFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
